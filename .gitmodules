@@ -1,6 +1,0 @@
-[submodule "lib"]
-	path = lib
-	url = git@github.com:anerg2046/go-app-lib.git
-[submodule "app/http/middleware"]
-	path = app/http/middleware
-	url = git@github.com:anerg2046/go-app-middleware.git
